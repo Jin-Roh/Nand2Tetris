@@ -1,18 +1,19 @@
 # Intro
 
-Nand2Tetris, in this course a modern computer will be built using only as a building block the nand logic circuit. 
+Nand2Tetris, in this course a modern computer will be built using only as a building block the nand logic gate. 
 The components to be constructed are: 
  
-1. Logic circuits (nor, not, or, and, xor, mux, dmux, etc).
-2. Memory, (Primary and Sencundary).
-3. CPU,   (Machine Language, ALU, PC, etc).
-4. Computer Architecture.
-5. Assembler.
-6. Virtual Machine.
-7. High-Level Language.
-8. Compiler.
-9. Operational System.
-10. Tetris Game.
+1. Logic gates (and, not, or, nor, etc)
+2. Combinational Logic Circuits (mux, dmux, inc, adder, etc).
+3. Memory, (Primary and Sencundary).
+4. CPU,   (Machine Language, ALU, PC, etc).
+5. Computer Architecture.
+6. Assembler.
+7. Virtual Machine.
+8. High-Level Language.
+9. Compiler.
+10. Operational System.
+11. Tetris Game.
 
 # Objective
 
