@@ -1,12 +1,12 @@
 # Intro
 
-Nand2Tetris, in this course a modern computer will be built using only as a building block the nand logic gate. 
+Nand2Tetris, is a course that aims to engineer a modern computer using only as a building block the NAND logic gate. 
 The components to be constructed are: 
  
-1. Logic gates (and, not, or, nor, etc)
-2. Combinational Logic Circuits (mux, dmux, inc, adder, etc).
-3. Memory, (Primary and Sencundary).
-4. CPU,   (Machine Language, ALU, PC, etc).
+1. Logic gates.
+2. Combinational Logic Circuits.
+3. Primary/Secondary storage storage.
+4. CPU, ALU, program counter.
 5. Computer Architecture.
 6. Assembler.
 7. Virtual Machine.
@@ -41,7 +41,7 @@ The Elements of Computing Systems: Building a Modern Computer from First Princip
 
 # TODO
  - Project 6: Assembler
- - Finish second part of the book[2].
+ - Finish book's[2] second part.
  
 # References
 
