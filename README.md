@@ -5,7 +5,7 @@ The components to be constructed are:
  
 1. Logic gates.
 2. Combinational Logic Circuits.
-3. Primary/Secondary storage storage.
+3. Primary/Secondary storage.
 4. CPU, ALU, program counter.
 5. Computer Architecture.
 6. Assembler.
