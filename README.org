@@ -19,7 +19,7 @@
   7. Virtual Machine
   8. High-Level Language
   9. Compiler
-  10. Operational System
+  10. Operating System
   11. Tetris Game
 
 * Goal
