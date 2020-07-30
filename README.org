@@ -24,10 +24,10 @@
 
 * Goal
 
-  The tetris game is expected to run under the final/top
-  constructed layer (OS), achieve that way a little bit
-  of knowledge about the whole technology stack of a
-  modern/general-purpose compute.
+  The tetris game is expected to run under the final (top)
+  constructed layer =the Operating System=, and acquire more
+  knowledge about the whole =tech stack= of a modern/general-purpose
+  computer.
 
   From NAND to Tetris!
 
